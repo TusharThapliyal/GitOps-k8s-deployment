@@ -1,0 +1,9 @@
+Terraform-jenkins/.terraform/
+Terraform-jenkins/terraform.tfstate
+Terraform-jenkins/terraform.tfstate.backup
+Terraform-jenkins/.terraform.lock.hcl
+Terraform-jenkins/.terraformrc
+Terraform-jenkins/terraform.rc 
+Terraform-jenkins/.terraform/providers/
+Terraform-jenkins/.terraform/plugins/
+Terraform-jenkins/.terraform/environment.tfstate
