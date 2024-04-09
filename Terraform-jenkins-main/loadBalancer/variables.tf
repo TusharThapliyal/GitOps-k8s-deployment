@@ -1,0 +1,12 @@
+variable "Subnet_ids" {}
+variable "Lb_name" {}
+variable "Is_external" {}
+variable "Lb_type" {}
+variable "Sg_enable_ssh_https" {}
+variable "Lb_listner_port" {}
+variable "Lb_listner_protocol" {}
+variable "Lb_target_group_arn" {}
+variable "Ec2_instance_id" {}
+variable "Lb_target_group_attachment_port" {}
+variable "Lb_listner_default_action" {}
+variable "ALB_arn" {}

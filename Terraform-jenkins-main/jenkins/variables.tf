@@ -1,0 +1,9 @@
+variable "Sg" {}
+variable "Sg_ssh" {}
+variable "Ami_id" {}
+variable "Instance" {}
+variable "Subnet_id" {}
+variable "Public_ip_boolean" {}
+variable "Security_group" {}
+variable "Tag_name" {}
+variable "User_data_install_jenkins" {}

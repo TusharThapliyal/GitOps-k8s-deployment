@@ -1,0 +1,9 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.terraformrc
+terraform.rc 
+.terraform/providers/
+.terraform/plugins/
+.terraform/environment.tfstate
