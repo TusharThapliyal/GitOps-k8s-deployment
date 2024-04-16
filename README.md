@@ -6,6 +6,9 @@ This repository demonstrates how we can use ``ArgoCD`` to implement GitOps metho
 ## Architecture diagram of workflow
 ![gitops-project-diagram](https://github.com/TusharThapliyal/GitOps-k8s-deployment/assets/75366942/32dbf48e-9d28-4305-9688-65887e039095)
 
+## Project status
+- Under progress.
+- Last updated on 16 April 2024
 
 ## Installation steps
 
